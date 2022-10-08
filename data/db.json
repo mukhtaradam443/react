@@ -1,0 +1,17 @@
+{
+    "blogs":[
+        {
+            "title":"my first blod",
+            "body": "why do we use?/nlt is a lobe estabilshed facf that a leader will be distracted",
+            "author": "mukhtar",
+            "id":1
+        },
+        {
+            "title": "opening party!",
+            "body": "why do we use?/nlt is a lobe estabilshed facf that a leader will be distracted",
+            "author": "legend",
+            "id":2
+            
+        }
+    ]
+}
